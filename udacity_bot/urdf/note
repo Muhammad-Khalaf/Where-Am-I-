@@ -1,0 +1,4 @@
+to change the robot model, yoy just have to rename the files.
+so rename "udacity_bot.xacro" and "udacity_bot.gazebo" to "udacity_bot1.xacro" and "udacity_bot1.gazebo"
+and rename "udacity_bot2.xacro" and "udacity_bot2.gazebo" to "udacity_bot.xacro" and "udacity_bot.gazebo"
+Then the second robot model well be launched
